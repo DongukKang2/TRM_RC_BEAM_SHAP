@@ -14,7 +14,7 @@ Textile  reinforced  mortar  (TRM)  보강  공법은  유리섬유와  탄소�
 
 ### Figures
 <p align="center">
-<img src="MLP and xgBoost output.png" width="500px"/>
+<img src="output/MLP and xgBoost output.png" width="300px"/>
 </p>
 
 This repository contains the code(not providing dataset) for the following paper.
