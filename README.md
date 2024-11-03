@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TRM_strength_prediction
 
 This repository contains the code(not providing dataset) for the following paper.
@@ -31,11 +30,3 @@ This repository contains the code(not providing dataset) for the following paper
 <img src="output/사용장면.jpeg" width="500px"/>
 </p>
 
-
-
-
-
-
-=======
-# TRM_RC_BEAM_SHAP
->>>>>>> af64aa3fdd8abd867c75aa85fc579a736a88e0c4
